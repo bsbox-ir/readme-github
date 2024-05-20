@@ -20,11 +20,11 @@ We welcome contributions from anyone interested in bombSquad modding and develop
 
  Join us in making BombSquad even better!
  
- Website: https://bombsquad-community.web.app
+ Website: https://bsbox.ir/
  
-## 📌 Bombsquad-Community Discord
+## Website:
 
-[![Bombsquad Discord](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://discord.gg/ucyaesh)
+[![Bsbox Website](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://bsbox.ir/)
 
 ## ♥️ Bombsquad-community Contributors
 
