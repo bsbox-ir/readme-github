@@ -1,41 +1,28 @@
 # Welcome to the Bsbox Community! 
-## About Us
-We are a group of enthusiastic gamers and developers who love the game "BombSquad" and are dedicated to enhancing its experience through modifications and plugins. Our community is driven by the passion for making BombSquad even more enjoyable for players around the world.
 
-## What We Do
-At BombSquad Community, we focus on:
+# 💫 About Me:
+Nothing right now
 
-- Creating high-quality modifications and plugins for bombSquad.
-- Developing open-source projects aimed at improving various aspects of the game.
-- Building tools such as community-driven plugin manager and server scripts to enhance the gaming experience.
-- Exploring new avenues such as modded clients to expand the possibilities within the game.
 
-## How to Get Involved
-We welcome contributions from anyone interested in bombSquad modding and development! Whether you're an experienced developer or just getting started, there are plenty of ways to get involved:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bsbox_ir) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bsbox_ir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bsbox_ir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bsbox_ir) 
 
-- Contribute Code: Check out our repositories and contribute your code, whether it's fixing bugs, adding new features, or creating entirely new projects.
-- Report Issues: Encountered a bug or have an idea for improvement? Open an issue on the respective repository, and let us know!
-- Join the Discussions: Participate in discussions, share your ideas, and collaborate with other members of the community in our GitHub discussions/Discord server.
-- Spread the Word: Help us grow the community by sharing our projects, repositories, and initiatives with fellow BombSquad enthusiasts.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bsbox_ir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bsbox_ir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsbox_ir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- Join us in making BombSquad even better!
- 
- Website: https://bsbox.ir/
- 
-## Website:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bsbox_ir&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-[![Bsbox Website](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://bsbox.ir/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-## ♥️ Bombsquad-community Contributors
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bsbox_ir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-This is a list of contributors of bombsquad-community.
+---
+[![](https://visitcount.itsvg.in/api?id=bsbox_ir&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[plugin-manager]: https://contrib.rocks/image?repo=bombsquad-community/plugin-manager
-[server-scripts]: https://contrib.rocks/image?repo=bombsquad-community/server-scripts
-[bombsquad-web]: https://contrib.rocks/image?repo=bombsquad-community/bombsquad-web
-
-|        🔻 Project        | ❤ Contributors                                                                                    |
-| :----------------------: | :------------------------------------------------------------------------------------------------ |
-| 💻 [plugin-manager](https://github.com/bombsquad-community/plugin-manager) | [![plugin-manager]](https://github.com/bombsquad-community/plugin-manager/graphs/contributors) |
-| 💉 [server-scripts](https://github.com/bombsquad-community/server-scripts) | [![server-scripts]](https://github.com/bombsquad-community/server-scripts/graphs/contributors) |
-| 🧩 [bombsquad-web](https://github.com/bombsquad-community/bombsquad-web) | [![bombsquad-web]](https://github.com/bombsquad-community/bombsquad-web/graphs/contributors) |
